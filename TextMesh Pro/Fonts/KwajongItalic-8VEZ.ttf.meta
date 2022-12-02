@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 79b66fc43d34ed14aac3dacd921931d8
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kwajong
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 505e610007a179140842123b7093d57d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
